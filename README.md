@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSSM-SBD11-06-METBKA000-recovered_host-metbk_a_dcl_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: METBK<br>
